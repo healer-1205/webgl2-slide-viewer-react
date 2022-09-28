@@ -1818,6 +1818,13 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-image-gallery@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/react-image-gallery/-/react-image-gallery-1.0.5.tgz#563234ac0fa131e2920199d191fca0c1594ba29d"
+  integrity sha512-CjIjFXmV7zGRO/FkdtPK31Rwj0ud7Xz/9e5o4DCX2Lx96jR8+0xCmKeUAQQVN3pKc6jUjOC0f/aEylhKg8vhAw==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react@*", "@types/react@^17.0.0":
   version "17.0.33"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.33.tgz#e01ae3de7613dac1094569880bb3792732203ad5"
@@ -9083,6 +9090,11 @@ react-error-overlay@^6.0.9:
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
+
+react-image-gallery@^1.2.9:
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/react-image-gallery/-/react-image-gallery-1.2.9.tgz#35d90b9e2bf53b8e9ddbb8e3cd6aa89814ddb173"
+  integrity sha512-19Wvp5MiDvS4jAmTWIfTRJR71Cnk5541/iBUW2VEjLI+uSd+HhQStVdIYy4PWYSxRa+G/97U2f7ac+WRkOGszg==
 
 react-is@^16.8.1:
   version "16.13.1"
